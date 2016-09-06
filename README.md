@@ -1,5 +1,4 @@
 # data-presupuesto-chile
-datos de los presupuestos
 
 Los datos fueron integrados desde los archivos xml disponibles en: 
 

@@ -1,0 +1,99 @@
+{
+	"name" : "Chilean Budget between 2013 and 2016.",
+	"resources" : [
+	{
+		"path" : "presupuestos.csv",
+		"schema" : {
+			"fields" : [
+			{
+				"name" : "periodo",
+				"type" : "integer"
+			},
+			{
+				"name" : "codinstit",
+				"type" : "string"
+			},
+			{
+				"name" : "partida",
+				"type" : "string"
+			},
+			{
+				"name" : "capitulo",
+				"type" : "string"
+			},
+			{
+				"name" : "programa",
+				"type" : "string"
+			},
+			{
+				"name" : "subti",
+				"type" : "string"
+			},
+			{
+				"name" : "item",
+				"type" : "string"
+			},
+			{
+				"name" : "periodo",
+				"type" : "integer"
+			},
+			{
+				"name" : "asigna",
+				"type" : "string"
+			},
+			{
+				"name" : "desc_partida",
+				"type" : "string"
+			},
+			{
+				"name" : "desc_capitulo",
+				"type" : "string"
+			},
+			{
+				"name" : "desc_programa",
+				"type" : "string"
+			},
+			{
+				"name" : "desc_tipo_mov",
+				"type" : "string"
+			},
+			{
+				"name" : "desc_subtitulo",
+				"type" : "string"
+			},
+			{
+				"name" : "desc_item",
+				"type" : "string"
+			},
+			{
+				"name" : "desc_asignacion",
+				"type" : "string"
+			},
+			{
+				"name" : "glosa_programa",
+				"type" : "string"
+			},
+			{
+				"name" : "num_glosa",
+				"type" : "string"
+			},
+			{
+				"name" : "moneda",
+				"type" : "string"
+			},
+			{
+				"name" : "monto_pesos",
+				"type" : "number"
+			},
+			{
+				"name" : "monto_dolar",
+				"type" : "number"
+			},
+			{
+				"name" : "t_tipo_mov",
+				"type" : "string"
+			}]
+		}
+	
+	}]
+}
